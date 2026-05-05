@@ -4,7 +4,7 @@ A web app that displays random **Yu-Gi-Oh!** cards in a dynamic and visually imm
 
 ![page preview](src/imgs/page_preview.png)
 
-The website is currently live [here](https://jose-jojo-mls.github.io/mod-4-project/)
+The website is currently live [here](https://jose-jojo-mls.github.io/ShadowRealm/)
 
 # Features
 
